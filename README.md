@@ -1,5 +1,7 @@
 This repository contains trained deep learning models for binary classification of facial pigmented lesions, specifically distinguishing:
 
+Manuscript title: Improved Detection of Lentigo Maligna with AI-Assisted Dermoscopy: A Reader Study in Facial Pigmented Lesions
+
 Malignant: Lentigo maligna (LM)
 
 Benign: Pigmented actinic keratosis (PAK) and solar lentigo/seborrheic keratosis (SL/SK)
